@@ -1,2 +1,2 @@
 # QA-Automation
-This is for QA
+This is READ-ME file for Git-Hub Tutorial
